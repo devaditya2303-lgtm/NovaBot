@@ -1,0 +1,6 @@
+flask
+gunicorn
+openai
+flask-limiter
+python-dotenv
+
